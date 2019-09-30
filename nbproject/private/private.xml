@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="5">
+        <file>
+            <url>src/Java/gui/MainFrame.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>210</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Gui/NewDoctorFrame.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Dao/HospitalDao.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Dao/HospitalImple.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Gui/EditTreatmentFrame.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Dao/DBhelper.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Dao/LoginImple.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Gui/MainFrame.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Model/Role.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Model/Patient.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Jdbc/Method.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Gui/NewSorenessFrame.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Jdbc/Utilty.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Dao/LoginDao.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Model/Login.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/hospital/Hospital.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Gui/NewRegisterFrame.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Gui/LoginFrame.java</file>
+            <file>file:/C:/Users/User/Desktop/Hospital/src/Java/Model/HospitalModel.java</file>
+        </group>
+    </open-files>
+</project-private>
